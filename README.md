@@ -12,13 +12,15 @@ A small gallery of recent screenshots and a recording from the app (files are in
 
 - Screenshots:
 
-![Home 1](ScreenShots/Screenshot_2026-01-23-01-17-46-702_com.pokidesk.jpg)
-![Home 2](ScreenShots/Screenshot_2026-01-23-01-17-53-330_com.pokidesk.jpg)
-![Profile 1](ScreenShots/Screenshot_2026-01-23-01-18-03-525_com.pokidesk.jpg)
-![Profile 2](ScreenShots/Screenshot_2026-01-23-01-18-08-054_com.pokidesk.jpg)
-![Editor 1](ScreenShots/Screenshot_2026-01-23-01-18-15-238_com.pokidesk.jpg)
-![Editor 2](ScreenShots/Screenshot_2026-01-23-01-18-19-706_com.pokidesk.jpg)
-![Grid View](ScreenShots/Screenshot_2026-01-23-01-18-33-772_com.pokidesk.jpg)
+<img src="ScreenShots/Screenshot_2026-01-23-01-17-46-702_com.pokidesk.jpg" width="220" />
+<img src="ScreenShots/Screenshot_2026-01-23-01-17-53-330_com.pokidesk.jpg" width="220" />
+<img src="ScreenShots/Screenshot_2026-01-23-01-18-03-525_com.pokidesk.jpg" width="220" />
+<img src="ScreenShots/Screenshot_2026-01-23-01-18-08-054_com.pokidesk.jpg" width="220" />
+
+<a href="ScreenShots/Screenrecorder-2026-01-23-01-25-32-918.mp4">
+  <img src="ScreenShots/Screenshot_2026-01-23-01-17-46-702_com.pokidesk.jpg" width="280" />
+</a>
+
 
 If you'd like a different thumbnail for the video or a specific ordering/grouping of screenshots, tell me which image(s) to prefer and I'll update the gallery.
 
