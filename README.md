@@ -8,7 +8,10 @@ A small gallery of recent screenshots and a recording from the app (files are in
 
 - Video (tap the thumbnail to open the recording):
 
-[![App recording thumbnail](ScreenShots/Screenshot_2026-01-23-01-17-46-702_com.pokidesk.jpg)](ScreenShots/Screenrecorder-2026-01-23-01-25-32-918.mp4)
+<a href="ScreenShots/Screenrecorder-2026-01-23-01-25-32-918.mp4">
+  <img src="ScreenShots/Screenshot_2026-01-23-01-17-46-702_com.pokidesk.jpg" width="280" />
+</a>
+
 
 - Screenshots:
 
@@ -17,9 +20,7 @@ A small gallery of recent screenshots and a recording from the app (files are in
 <img src="ScreenShots/Screenshot_2026-01-23-01-18-03-525_com.pokidesk.jpg" width="220" />
 <img src="ScreenShots/Screenshot_2026-01-23-01-18-08-054_com.pokidesk.jpg" width="220" />
 
-<a href="ScreenShots/Screenrecorder-2026-01-23-01-25-32-918.mp4">
-  <img src="ScreenShots/Screenshot_2026-01-23-01-17-46-702_com.pokidesk.jpg" width="280" />
-</a>
+
 
 
 If you'd like a different thumbnail for the video or a specific ordering/grouping of screenshots, tell me which image(s) to prefer and I'll update the gallery.
